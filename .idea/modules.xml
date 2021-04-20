@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../E2EShopping/.idea/E2EShopping.iml" filepath="$PROJECT_DIR$/../E2EShopping/.idea/E2EShopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Readingdata/.idea/Readingdata.iml" filepath="$PROJECT_DIR$/../Readingdata/.idea/Readingdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Travelwebautomation.iml" filepath="$PROJECT_DIR$/.idea/Travelwebautomation.iml" />
+    </modules>
+  </component>
+</project>
